@@ -1,0 +1,15 @@
+# Ignore semua file CSV di folder data/
+data/*.csv
+
+# Ignore folder node_modules
+node_modules/
+
+# Ignore file log
+*.log
+
+# Ignore semua file sementara macOS
+.DS_Store
+
+# Ignore semua file sementara Python
+__pycache__/
+*.pyc
